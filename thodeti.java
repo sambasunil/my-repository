@@ -1,3 +1,4 @@
+
 welcome to git hub
 
 
@@ -5,3 +6,6 @@ welcome to git hub
 int ;30
 inj ;20
 
+# task 2
+int ;20
+inj ;30
